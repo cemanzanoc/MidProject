@@ -1,5 +1,5 @@
 # Analysis of the presence of potential endocrine disruptors in personal care products and color cosmetics.
-![image](https://github.com/user-attachments/assets/595416fd-c4be-4963-8956-36d43a3c649c)![endocrine_disruptors](https://github.com/user-attachments/assets/c614a75f-8ffa-4437-bb66-a2dd030fba15)
+![image](https://github.com/user-attachments/assets/595416fd-c4be-4963-8956-36d43a3c649c)
 
 # Project Objective
 Understanding the current state of regulation regarding the presence of endocrine disruptors in various cosmetic and makeup products, as well as analyzing the composition of formulations to gain insight into this issue.
