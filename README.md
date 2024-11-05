@@ -20,8 +20,8 @@ This approach will enable us to deepen our understanding of these chemical subst
 Since we couldn't find any results using the official list of endocrine disruptors from ECHA (https://www.echa.europa.eu/es/ed-assessment), 
 we consulted various research studies to develop our own list of potential endocrine disruptors. This will allow us to identify matches within our dataframe in the possible future.
 **Step 4: Answer our research questions-stated below**
-  4.1 Question 1: Number of products per category and subcategory that contain endocrine disruptors.
-  4.2 Question 2: Which categories and brands have the most endocrine disruptors?
-  4.3 Question 3: Is there any relationship between the economic value and the number of endocrine disruptors? <br>Do more expensive brands contain fewer disruptors, while cheaper brands contain more?
-  4.4.Question 4: Are consumers aware of endocrine disruptors in cosmetic products?Do they consider them in their product reviews? How does the average rating correlate with the presence of endocrine disruptors?
-  4.5 Question 5: What are the top 5 endocrine disruptors in this sample for each category? Is there any difference?
+  4.1 Question 1: Number of products per category and subcategory that contain endocrine disruptors.<br>
+  4.2 Question 2: Which categories and brands have the most endocrine disruptors?<br>
+  4.3 Question 3: Is there any relationship between the economic value and the number of endocrine disruptors? <br>Do more expensive brands contain fewer disruptors, while cheaper brands contain more?<br>
+  4.4.Question 4: Are consumers aware of endocrine disruptors in cosmetic products?Do they consider them in their product reviews? How does the average rating correlate with the presence of endocrine disruptors?<br>
+  4.5 Question 5: What are the top 5 endocrine disruptors in this sample for each category? Is there any difference?<br>
