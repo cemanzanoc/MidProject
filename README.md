@@ -15,7 +15,7 @@ This approach will enable us to deepen our understanding of these chemical subst
 **Step 1: Obtaining the data to work with. Using web scrapping methodologies**
  1.1: Utilizing Selenium to extract URLs from Sephora's Spanish Website for three selected categories: Body, Treatment and Make-up<br>
  1.2: Extracting Information with Beautiful Soup from URLs. <br>Fields to obtain: category, subcategory product name, brand name, rating, review count, price, and ingredients.<br>
-**Step 2: Cleaning the dataframe, handle null values and formatting**
+**Step 2: Cleaning the dataframe, handle null values and formatting**<br>
 **Step 3: Found the endocrine disruptors inside the ingredients column**
 Since we couldn't find any results using the official list of endocrine disruptors from ECHA (https://www.echa.europa.eu/es/ed-assessment), 
 we consulted various research studies to develop our own list of potential endocrine disruptors. This will allow us to identify matches within our dataframe in the possible future.<br>
